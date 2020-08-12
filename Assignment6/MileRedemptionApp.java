@@ -12,7 +12,7 @@ import javafx.stage.Stage;
  *  Class Name:  MileRedemptionApp                              *
  *  Programmer: Edgar Villagran Z1861047                        *
  *                                                              *
- *  Purpose: Houses main, only it launches the GUI.             *
+ *  Purpose: Houses main, only launches the GUI.             *
  *                                                              *
  ****************************************************************/
 public class MileRedemptionApp extends Application {
